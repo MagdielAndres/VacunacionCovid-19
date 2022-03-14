@@ -1,0 +1,161 @@
+body {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-a {
+    color: #6d7b93;
+}
+.activo {
+    color: #fff;
+    background-color: #0d6efd;
+    border-radius: 5px;
+}
+.contenido {
+    width: 500px;
+}
+.titulo {
+    color: #1f3e72;
+    font-weight: 600;
+    font-size: 3.5em;
+    width: 433px;
+    
+}
+.img_titulo {
+    /* position: absolute;
+    left: 845px;
+    top: 74px; */
+    z-index: -1;
+}
+
+.parrafo_sobre {
+    color: #6d7b93;
+    width: 517px;
+}
+.texto {
+    color: #1f3e72;
+}
+
+.texto2 {
+    color: #1f3e72;
+    font-weight: 600;
+    margin-top: 102px;
+}
+.colorAzul {
+    color: #1f3e72;
+    font-weight: 600;
+}
+.btn_submit {
+    
+    background-color:#3555d3;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 0px solid #3555d3;
+    /* position: absolute;
+    left: 788px;
+    top: 662px; */
+}
+.vacunaInfo {
+    background-color: #ffffff10;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    box-shadow: 2px 2px 2px 5px #3555d359;
+    border-radius: 5px;
+    width: 728px;
+    position: absolute;
+    top: 699px;
+    left: 135px;
+}
+
+/* otras seccion */
+.icono {
+    width: 36px;
+    height: 42px
+}
+.textotitulo {
+    color: #1f3e72;
+    font-weight: 500;
+    font-size: 1.5rem;
+    width: 211px;
+}
+.textoparrafo {
+    color: #6d7b93;
+}
+.submenu {
+    text-align: justify;
+    width: 447px;
+    box-shadow: 2px 2px 2px 2px #3555d359;
+    border-radius: 5px;
+}
+.opcion {
+    width: 500px;
+}
+.espacio {
+    margin-left: 154px;
+}
+.img_tamaño {
+    margin: auto 0;
+}
+
+/* otra seccion */
+
+.contenedor_cards {
+    width: 517px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+}
+.info_card {
+    width: 250px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    display: flex;
+    box-shadow: 2px 5px#3555d359;
+    border-radius: 5px;
+}
+.icono_card {
+    margin: auto 0;
+    width: 80px;
+}
+.titulo_card {
+    color: #1f3e72;
+}
+/* footer */
+footer {
+    background-color: #eef3ff;
+    margin-top: 71px;
+}
+.titulo_footer {
+    color: #2a4ac8;
+    font-weight: 600;
+    font-size: 2rem;
+}
+.parrafo_footer {
+    color: #6d7b93;
+    font-weight: 400;
+    font-size: 1rem;
+    width: 176px;
+}
+.subtitulo_About {
+    color: #1f3e72;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+.optiones_footer {
+    color: #6d7b93;
+    font-weight: 400;
+    font-size: 1rem;
+    list-style: none;
+    padding: 0;
+}
+.copy_footer {
+    color: #6d7b93;
+}
+.link_foot {
+    color: #6d7b93;
+    text-decoration: none;
+    margin-left: 9px;
+}
