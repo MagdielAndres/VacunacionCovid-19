@@ -93,7 +93,7 @@ body {
     width: 500px;
 }
 .espacio {
-    margin-left: 154px;
+    margin-left: 59px;
 }
 .img_tamaño {
     margin: auto 0;
@@ -150,6 +150,10 @@ footer {
     font-size: 1rem;
     list-style: none;
     padding: 0;
+}
+li a {
+    text-decoration: none;
+    color: #6d7b93;
 }
 .copy_footer {
     color: #6d7b93;
